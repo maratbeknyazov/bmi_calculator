@@ -23,11 +23,11 @@ The following concepts were mastered during the development process:
   * **Dart Logic:** Using `Enums`, ternary operators, and understanding the difference between `const` and `final`.
   * **Composition vs Inheritance:** Creating UI through widget composition.
 
-## 📸 Screenshots
+## 📷 Screenshot
 
-| Input Screen | Result Screen |
-|:---:|:---:|
-| \<img src="bmi-calc-demo.gif" width="250"\> | \<img src="bmi-calc-demo.gif" width="250"\> |
+| Result Screen |
+| :---: |
+| <img src="bmi-calc-demo.gif" width="250"> |
 
 ## 🚀 How to Run
 
